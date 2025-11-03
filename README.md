@@ -16,3 +16,4 @@ VARify Bot is a custom Copilot Studio agent that integrates with a third-party A
 - Provides team info and fixture updates on request
 
 ## Video Demonstration
+[![VARify Bot Demo](https://img.youtube.com/vi/6XpPymDK5hY/0.jpg)](https://www.youtube.com/watch?v=6XpPymDK5hY)
